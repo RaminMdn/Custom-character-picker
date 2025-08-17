@@ -1,12 +1,9 @@
-# Custom-character-picker
-A character picker which gives you quick access to a short selected list of special characters of your choice.
+# Custom Character Picker 
 
-# Character Picker 🔣
-
-A **lightweight and handy tool** to quickly pick and copy **special characters** that are not available on a standard keyboard — perfect for creating folder trees, diagrams, or tables in places like **GitHub READMEs**.
+A **lightweight, compact and handy tool** to quickly pick and copy **special characters or your choice** that are not available on a standard keyboard — perfect for creating folder trees, diagrams, or tables in places like **GitHub READMEs**.
 
 ![Character Picker Screenshot](path/to/screenshot.png)  
-*📌 Placeholder image above – replace with your screenshot!*
+*📌 Placeholder image – !*
 
 ---
 <br><br>
@@ -148,3 +145,18 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 ## 🙌 Support
 
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request!
+
+## Author’s Note
+
+This project was developed as part of personal learning and practice.
+
+At times, I consult pair programming tools, programming forums or relevant documentations — for purposes like:
+
+- Proofreading code or comments
+- Double-checking best practices
+- Exploring alternative implementations
+
+These tools were used in the same way any developer might use a second pair of eyes, and never as a substitute for understanding or authorship.
+
+The goal was always clarity, correctness, and learning — with every line written and reviewed consciously and deliberately.
+
