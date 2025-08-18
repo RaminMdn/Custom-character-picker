@@ -2,9 +2,9 @@
 
 A **lightweight, compact and handy tool** to quickly pick and copy **special characters or your choice** that are not available on a standard keyboard — perfect for creating folder trees, diagrams, or tables in places like **GitHub READMEs**.
 
-![Character Picker Screenshot](path/to/screenshot.png)  
-*📌 Placeholder image – !*
-
+<div style="align: center;" align="center">
+<img style="width: 99%; display: inline-block;" alt="img" src="https://github.com/RaminMdn/Custom-character-picker/blob/main/Image%20material/1%20(1).png"/>
+</div>
 ---
 <br><br>
 
