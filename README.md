@@ -48,7 +48,9 @@ Here’s a simple GitHub-style folder tree:
 ```
 
 <br>
+
 And here you may see how creating a tree and a table with the special characters added in the app looks in Notepad++:
+
 <br>
 
 <div style="align: center;" align="center">
