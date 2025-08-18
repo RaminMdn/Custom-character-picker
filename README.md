@@ -3,9 +3,11 @@
 A **lightweight, compact and handy tool** to quickly pick and copy **special characters or your choice** that are not available on a standard keyboard — perfect for creating folder trees, diagrams, or tables in places like **GitHub READMEs**.
 
 <div style="align: center;" align="center">
-<img style="width: 99%; display: inline-block;" alt="img" src="https://github.com/RaminMdn/Custom-character-picker/blob/main/Image%20material/1%20(1).png"/>
+<img style="width: 69%; display: inline-block;" alt="img" src="https://github.com/RaminMdn/Custom-character-picker/blob/main/Image%20material/1%20(7).png"/>
 </div>
+
 ---
+
 <br><br>
 
 ## ✨ Features
@@ -44,6 +46,14 @@ Here’s a simple GitHub-style folder tree:
  ├── 📁docs
  └── README.md
 ```
+
+<br>
+And here you may see how creating a tree and a table with the special characters added in the app looks in Notepad++:
+<br>
+
+<div style="align: center;" align="center">
+<img style="width: 80%; display: inline-block;" alt="img" src="https://github.com/RaminMdn/Custom-character-picker/blob/main/Image%20material/1%20(5).png"/>
+</div>
 
 ---
 <br><br>
