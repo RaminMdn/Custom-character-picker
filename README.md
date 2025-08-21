@@ -98,15 +98,6 @@ CHARACTERS = ['✓', '✗', '★', '→', '§']
 ---
 <br><br>
 
-## 🖼️ Screenshot
-
-_Add a screenshot of your app running below:_
-
-![App Screenshot](path/to/screenshot.png)  
-*Screenshot placeholder – replace with your actual image.*
-
----
-<br><br>
 
 ## 🚀 Getting Started
 <br>
@@ -136,6 +127,17 @@ pip install pyperclip
 ```bash
 python character_picker.py
 ```
+
+---
+<br><br>
+
+## 🖼️ Next update
+
+The next update is planned to make horizantal docking of the app on the taskbar possible.
+
+<div style="align: center;" align="center">
+<img style="width: 64%; display: inline-block;" alt="img" src="https://github.com/RaminMdn/Custom-character-picker/blob/main/Image%20material/1%20(6).png"/>
+</div>
 
 ---
 <br><br>
