@@ -5,7 +5,7 @@ import tkinter as tk
 import pyperclip
 
 # This list contains the special characters shown as buttons
-CHARACTERS = ['├', '│', '└', '─', '|', '\\']
+CHARACTERS = ['├', '│', '└', '─', '|', '\\', '📁']
 
 # --- Create the main GUI window ---
 
