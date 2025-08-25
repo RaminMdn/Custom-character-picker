@@ -15,7 +15,7 @@ A **lightweight, compact and handy tool** to quickly pick and copy **special cha
 - ⚡ **Lightweight and fast** – Launches instantly and closes without lag.
 - 📋 **One-click copy** – Click a character and press "Copy" to send it to your clipboard.
 - 📌 **Always on top option** – Keep the picker visible over other windows for quick access.
-- 🧩 **Customizable** – Use your own character set (see [Customization](#-customization) below).
+- 🧩 **Customizable** – Use your own character set (see [Customization](##-Customization) below).
 - ✅ Works out of the box – No complex setup required.
 - 🖥️ Optimized window sizing and positioning for Windows systems.
 
