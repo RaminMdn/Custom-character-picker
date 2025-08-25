@@ -10,37 +10,37 @@ A **lightweight, compact and handy tool** to quickly pick and copy **special cha
 
 <br><br>
 
-## ✨ Features
+## Features
 
-- ⚡ **Lightweight and fast** – Launches instantly and closes without lag.
-- 📋 **One-click copy** – Click a character and press "Copy" to send it to your clipboard.
-- 📌 **Always on top option** – Keep the picker visible over other windows for quick access.
-- 🧩 **Customizable** – Use your own character set (see [Customization](##-Customization) below).
-- ✅ Works out of the box – No complex setup required.
-- 🖥️ Optimized window sizing and positioning for Windows systems.
+-  **Lightweight and fast** – Launches instantly and closes without lag.
+-  **One-click copy** – Click a character and press "Copy" to send it to your clipboard.
+-  **Always on top option** – Keep the picker visible over other windows for quick access.
+-  **Customizable** – Use your own character set (see [Customization](#customization) below).
+-  Works out of the box – No complex setup required.
+-  Optimized window sizing and positioning for Windows systems.
 
 ---
 <br><br>
 
-## 🧭 Purpose
+## Purpose
 
 If you're someone who frequently uses line-drawing characters or other special symbols for:
 
-- 📁 Creating **folder trees** in `README.md` files
-- 📊 Making **ASCII-style diagrams or tables**
-- 🎨 Enhancing documentation or plain-text layouts
+-  Creating **folder trees** in `README.md` files
+-  Making **ASCII-style diagrams or tables**
+-  Enhancing documentation or plain-text layouts
 
 ...this tool saves you from searching symbols or using difficult `ALT + CODE` combinations every time.
 
 ---
 <br><br>
 
-## 📷 Example Use Case
+## Example Use Case
 
 Here’s a simple GitHub-style folder tree:
 
 ```
-📦Project
+Project
  ├── 📁src
  │   └── main.py
  ├── 📁docs
@@ -81,7 +81,7 @@ Enable the **"Always on top"** checkbox to keep the picker window floating above
 
 You can replace the default characters with any symbols of your choice!
 
-### 🔧 How?
+### How?
 
 Open the Python file and locate this line near the top:
 
@@ -99,7 +99,7 @@ CHARACTERS = ['✓', '✗', '★', '→', '§']
 <br><br>
 
 
-## 🚀 Getting Started
+## Getting Started
 <br>
 
 ### ✅ Requirements
@@ -107,7 +107,7 @@ CHARACTERS = ['✓', '✗', '★', '→', '§']
 - Python 3.x
 - `pyperclip` library (for clipboard support)
 
-### 📦 Installation
+### Installation
 
 1. Clone the repo:
 
@@ -131,7 +131,7 @@ python character_picker.py
 ---
 <br><br>
 
-## 🖼️ Next update
+## Next update
 
 The next update is planned to make horizantal docking of the app on the taskbar possible.
 
@@ -142,7 +142,7 @@ The next update is planned to make horizantal docking of the app on the taskbar 
 ---
 <br><br>
 
-## 🧪 Developers & Contributors
+## Developers & Contributors
 
 If you find this tool helpful, please consider ⭐ **starring the repository**!  
 It helps others discover it and motivates development.
@@ -159,6 +159,8 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 ## 🙌 Support
 
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request!
+
+<br><br>
 
 ## Author’s Note
 
