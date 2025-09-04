@@ -40,7 +40,7 @@ If you're someone who frequently uses line-drawing characters or other special s
 Here’s a simple GitHub-style folder tree:
 
 ```
-Project
+Project 
  ├── 📁src
  │   └── main.py
  ├── 📁docs
